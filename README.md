@@ -2,11 +2,14 @@
 <br><br> I'm  <a href="www.linkedin.com/in/bangarita/">Brayan C. Angarita</a>
 </h1>
 
+
+<img width=100% src="https://github.com/BrayanCode11/BrayanCode11/blob/88f566e77763863e64a2f8727dd1206ec40087a4/Assets/BrayanCode11-Banner.gif">
+
 ## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/About_Me.gif"> About Me
 
-<img align="left" width=20% src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Pepe.gif">
+<img align="left" width=20% src="https://github.com/BrayanCode11/BrayanCode11/blob/3c85cd1777db18b6d04f002dc1530b450524989f/Assets/Catpc.gif">
 
-<p style = "text-align: justify;">
+<p style="text-align: justify;">
  
 Hello, I am a mechatronics engineering student at the National University of Colombia, and I am passionate about the world of technology. I enjoy writing code and solving technical problems, as well as automating tasks to improve efficiency. 
 <br>
@@ -20,7 +23,7 @@ Currently, I am focused on learning web development and am excited about the ide
 
 <br>
 
-<p align="left">
+<p align="center">
 <a>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="36" height="36" alt="Python"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript"/>
