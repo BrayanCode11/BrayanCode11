@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px" 
-<br><br> I'm  <a href="www.linkedin.com/in/bangarita">Brayan C. Angarita</a>
-</h1>
-
+<br><br> I'm  <a href="https://www.linkedin.com/in/bangarita/">Brayan C. Angarita</a></h1>
 
 <img width=100% src="https://github.com/BrayanCode11/BrayanCode11/blob/88f566e77763863e64a2f8727dd1206ec40087a4/Assets/BrayanCode11-Banner.gif">
 
