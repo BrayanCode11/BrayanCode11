@@ -5,14 +5,14 @@
 
 ## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/About_Me.gif"> About Me
 
-<img align="left" width=20% src="https://github.com/BrayanCode11/BrayanCode11/blob/3c85cd1777db18b6d04f002dc1530b450524989f/Assets/Catpc.gif">
+<img align="left" width=25% src="https://github.com/BrayanCode11/BrayanCode11/blob/3c85cd1777db18b6d04f002dc1530b450524989f/Assets/Catpc.gif">
 
-<p style="text-align: justify;">
+<p p style='text-align: right;'>
  
 Hello, I am a mechatronics engineering student at the National University of Colombia, and I am passionate about the world of technology. I enjoy writing code and solving technical problems, as well as automating tasks to improve efficiency. 
-<br>
+<br><br>
 I also enjoy building software and looking for new ways to apply technology to solve real life problems.
-<br>
+<br><br>
 Currently, I am focused on learning web development and am excited about the idea of being able to create innovative applications and websites that can have a positive impact on people's lives. 
  
 </p>
