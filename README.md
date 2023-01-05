@@ -5,17 +5,17 @@
 
 ## <img height="30" src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/Bird.gif"> About Me
 
+
+<br><br>
 <img align="left" width=25% src="https://github.com/BrayanCode11/BrayanCode11/blob/3c85cd1777db18b6d04f002dc1530b450524989f/Assets/Catpc.gif">
 
-<p p style='text-align: right;'>
- 
-Hello, I am a mechatronics engineering student at the National University of Colombia, and I am passionate about the world of technology. I enjoy writing code and solving technical problems, as well as automating tasks to improve efficiency. 
-<br><br>
-I also enjoy building software and looking for new ways to apply technology to solve real life problems.
+<p align="justify">
+Hello, I am a mechatronics engineering student at the National University of Colombia, and I am passionate about the world of technology. I enjoy writing code and solving technical problems, as well as automating tasks to improve efficiency.  I also enjoy building software and looking for new ways to apply technology to solve real life problems.  
 <br><br>
 Currently, I am focused on learning web development and am excited about the idea of being able to create innovative applications and websites that can have a positive impact on people's lives. 
- 
+<br><br><br>
 </p>
+
 
 ## <img height="30" src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/My_Knowledge.gif"> My Knowledge
 
