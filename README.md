@@ -26,7 +26,7 @@ Currently, I am focused on learning web development and am excited about the ide
 <img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/python.svg" width="36" height="36" alt="Python"/>
 <img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/javascript-colored.svg" width="36" height="36" alt="Javascript"/>
 <img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/html5-colored.svg" width="36" height="36" alt="HTML5"/>
-<img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/html5-colored.svg" width="36" height="36" alt="CSS3"/>
+<img src="https://github.com/BrayanCode11/BrayanCode11/blob/6fe4316c4f74b46705236aff3af631d602348823/Assets/css3-colored.svg" width="36" height="36" alt="CSS3"/>
 <img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/VueJS-Dark.svg" width="36" height="36" alt="VueJS"/>
 <img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/java.svg" width="36" height="36" alt="Java"/>
 <img src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/MySQL-Dark.svg" width="36" height="36" alt="MySQL"/>
