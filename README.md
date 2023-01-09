@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://github.com/BrayanCode11/BrayanCode11/blob/80cbe71df48dbe16d6487387b015d52eed0ad912/Assets/Hi.gif" width="30px" 
 <br><br> I'm  <a href="https://www.linkedin.com/in/bangarita/">Brayan C. Angarita</a></h1>
 
-<img width=100% src="https://github.com/BrayanCode11/BrayanCode11/blob/88f566e77763863e64a2f8727dd1206ec40087a4/Assets/BrayanCode11-Banner.gif">
+<img width=100% src="https://github.com/BrayanCode11/BrayanCode11/blob/2d047fe438298ec270b30860474e42084598030d/Assets/BrayanCode11%20V2.gif">
 
 ## <img height="30" src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/Bird.gif"> About Me
 
