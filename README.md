@@ -42,8 +42,8 @@ Currently, I am focused on learning web development and am excited about the ide
 
 <div align ="center">
   <a href="https://github.com/brayancode11/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brayancode11&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayancode11&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brayancode11&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayancode11&theme=algolia&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
