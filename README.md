@@ -40,7 +40,12 @@ Currently, I am focused on learning web development and am excited about the ide
 
 ## <img height="30" src="https://github.com/BrayanCode11/BrayanCode11/blob/a7014b30766df46855b5c35bce2b3b74fd6b4eeb/Assets/Mario.gif"> My GitHub Stats
 
-
+<div align ="center">
+  <a href="https://github.com/BrayanCode11">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrayanCode11&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanCode11&theme=algolia&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <!---  
 BrayanCode11/BrayanCode11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
